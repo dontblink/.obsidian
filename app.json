@@ -1,0 +1,20 @@
+{
+  "obsidianCss": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Attachments",
+  "spellcheck": true,
+  "strictLineBreaks": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "readableLineLength": false,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 75
+  },
+  "legacyEditor": false,
+  "livePreview": true
+}

@@ -4,5 +4,7 @@
   "table-editor-obsidian",
   "obsidian-charts",
   "cm-show-whitespace-obsidian",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-kanban",
+  "card-board"
 ]

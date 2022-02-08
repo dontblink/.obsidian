@@ -1,0 +1,26 @@
+{
+  "version": "0.2.0",
+  "data": {
+    "boardConfigs": [
+      {
+        "tag": "dateBoardConfig",
+        "data": {
+          "completedCount": 10,
+          "filters": [
+            {
+              "tag": "pathFilter",
+              "data": "Work/MyTrickRC"
+            }
+          ],
+          "includeUndated": true,
+          "title": "MyTrickRC"
+        }
+      }
+    ],
+    "globalSettings": {
+      "hideCompletedSubtasks": false,
+      "ignorePaths": [],
+      "subTaskDisplayLimit": null
+    }
+  }
+}

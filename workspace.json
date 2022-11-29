@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "595ce1ac42f2d9ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc640e179b6f9a30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "284a56d472377850",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Detectors Inc/Self Tests + LEDs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a45637a028129baa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Detectors Inc/Refactoring Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4ee48b6b61b16256",
+    "type": "split",
+    "children": [
+      {
+        "id": "361ac961bb00227c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24541622685d2720",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0bf5792e3a5e1ecf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "export",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6ef98abad7d12fe9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f46ef3275b9a92b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e2e67159b6270b8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee84e7e5fba5fd65",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Work/Detectors Inc/Self Tests + LEDs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "604f04a4539c6c92",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "284a56d472377850",
+  "lastOpenFiles": [
+    "Work/Detectors Inc/Refactoring Notes.md",
+    "Daily/11-23-2022.md",
+    "Work/Detectors Inc/Self Tests + LEDs.md",
+    "Work/Detectors Inc/Build Notes.md",
+    "Work/MyTrickRC/Task List.md",
+    "Work/MyTrickRC/PBS meeting.md",
+    "Work/MyTrickRC/Magnet test fixture.md",
+    "Work/MyTrickRC/1-19-22 Meeting.md",
+    "Workflow/Misc.md",
+    "Workflow/Altium/Component Creation.md"
+  ]
+}

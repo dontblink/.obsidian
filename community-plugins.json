@@ -8,5 +8,9 @@
   "obsidian-kanban",
   "card-board",
   "obsidian-imgur-plugin",
-  "obsidian-editor-shortcuts"
+  "obsidian-editor-shortcuts",
+  "obsidian-table-checkboxes-plugin",
+  "dataview",
+  "mermaid-tools",
+  "todoist-sync-plugin"
 ]
